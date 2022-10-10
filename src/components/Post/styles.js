@@ -17,12 +17,12 @@ const styles = StyleSheet.create({
         lineHeight: 26,
     },
     bedrooms: {
-        marginVertical:10,
+        marginVertical:8,
         color: '#5b5b5b',
     },
     prices: {
         fontSize: 18,
-        marginVertical: 10,
+        marginVertical: 6,
 
     },
     oldPrice: {
