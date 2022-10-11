@@ -2,7 +2,7 @@ import { StyleSheet, Dimensions} from "react-native";
 
 const styles = StyleSheet.create({
     imageWrapper: {
-        height: '100%',
+        
         width: "100%",
         overflow : "hidden"
     },
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         position:"absolute",
-        top: 20,
+        top: 50,
         zIndex: 100,
 
     },

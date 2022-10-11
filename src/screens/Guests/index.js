@@ -1,17 +1,20 @@
 import React, {useState} from "react";
 import { View, TextInput, FlatList, Text, Pressable} from "react-native";
 import styles from "./styles";
-
 import Entypo from 'react-native-vector-icons/Entypo';
+import { useNavigation } from "@react-navigation/native";
 
 const GuestScreen =(props) => {
     const [adults, setAdults]= useState(0);
     const [childrens, setChildrens]= useState(0);
     const [infants, setInfants]= useState(0);
 
+    const navigation = useNavigation();
     return(
-        <View>
+        <View style={{justifyContent: 'space-between', height:'100%'}}>
             {/**Row adults */}
+        <View>
+
             <View style={styles.row}>
             {/**titles*/}
             <View>
@@ -84,6 +87,22 @@ const GuestScreen =(props) => {
                     </Pressable>
                 </View>
             </View>
+        </View>
+            
+                <Pressable onPress={() => navigation.navigate('')} style={{
+                    marginBottom:20,
+                    backgroundColor:'#f15454',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    height:50,
+                    marginHorizontal: 20,
+                    borderRadius: 10 }}>
+                    <Text style={{
+                        fontSize: 20, 
+                        color: 'white',
+                        fontWeight: 'bold'
+                        }}>Search</Text>
+                </Pressable>
             
         </View>
     )
