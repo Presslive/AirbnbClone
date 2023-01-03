@@ -1,7 +1,7 @@
 # AirbnbClone
 ### [Live App](#/)
 
-![Airbnb](https://a0.muscache.com/im/pictures/907d168f-1038-45c9-b3ce-d78280c9468e.jpg?im_w=720)
+![Airbnb](https://community.withairbnb.com/t5/image/serverpage/image-id/40083iF26988A89FA84233?v=v2)
 
 
 ## Introduction
