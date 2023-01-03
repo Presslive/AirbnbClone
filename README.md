@@ -1,7 +1,7 @@
 # AirbnbClone
 ### [Live App](#/)
 
-![Airbnb](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png](https://a0.muscache.com/im/pictures/907d168f-1038-45c9-b3ce-d78280c9468e.jpg?im_w=720)
+![Airbnb](https://a0.muscache.com/im/pictures/907d168f-1038-45c9-b3ce-d78280c9468e.jpg?im_w=720)
 
 
 ## Introduction
