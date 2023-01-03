@@ -1,7 +1,7 @@
 # AirbnbClone
 ### [Live App](#/)
 
-![Airbnb](https://community.withairbnb.com/t5/image/serverpage/image-id/40083iF26988A89FA84233?v=v2)
+![Airbnb](https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/airbnb_2x1.jpg)
 
 
 ## Introduction
